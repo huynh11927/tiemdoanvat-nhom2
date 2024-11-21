@@ -14,7 +14,7 @@
             <li>
                 <strong>Bánh Mì Que</strong>
                 <br>
-                <img src="picture/banhmique.jpg" alt="Bánh mì que" width="200">
+                <img src="C:\xampp\tiemdoanvatweb\hinh\banhmique.jpg" alt="Bánh mì que" width="200">
                 <br>
                 <span>10,000 VNĐ</span>
             </li>  
